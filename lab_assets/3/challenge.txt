@@ -1,1 +1,1 @@
-Certificate Aurhority: VeriSign
+Status Code:  301
